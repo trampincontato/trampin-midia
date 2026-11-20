@@ -12,3 +12,11 @@ Formato: data | rede | formato | tema | gancho (1ª frase/tela) | pasta da mídi
 - 2026-11-17 | IG+FB+TT | carrossel 7 | chuva: 5 sinais de problema na casa | "Chuva chegou. Sua casa tá pronta?" | 2026-11-lote1/chuva_*
 - 2026-11-18 | IG+FB+TT | reel animado 15s | o app em 4 passos (mockup) | "Precisa de pedreiro e não sabe quem chamar?" | 2026-11-lote1/15s.mp4
 - 2026-11-19 | IG+FB+TT | carrossel 7 | 5 combinados de orçamento | "Orçamento sem dor de cabeça" | 2026-11-lote1/orc_*
+
+## Lote 2 (feito direto no Instagram, fora do Metricool)
+- 2026-11-17 | IG | reel animado 12,5s | contraste: mesma cidade, cliente e profissional não se acham | "Mesma cidade, mesmo dia" | 2026-11-lote2/contraste.mp4
+- 2026-11-17 | IG | carrossel 6 | profissional que some por pegar serviço demais | "O profissional que some no meio da obra não é desonesto" | 2026-11-lote2/servico_demais_*
+- (não confirmados no Metricool: opiniao.mp4 "Profissional bom não é o que nunca erra" e caixinha.mp4 "Como saber se o pedreiro é bom ANTES de contratar?")
+
+## Agente diário
+- 2026-11-21 18h | IG (+FB pelo compartilhamento automático) | carrossel 7 | newsjacking Black Friday: 4 cuidados antes de comprar material de obra na promoção | "Vai comprar material de obra na promoção? Lê isso antes de passar no caixa." | 2026-11-21/bf_material_ig_* (ref.: carrossel educativo de newsjacking estilo Alfredo Soares)
