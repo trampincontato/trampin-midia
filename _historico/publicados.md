@@ -20,3 +20,5 @@ Formato: data | rede | formato | tema | gancho (1ª frase/tela) | pasta da mídi
 
 ## Agente diário
 - 2026-11-21 18h | IG (+FB pelo compartilhamento automático) | carrossel 7 | newsjacking Black Friday: 4 cuidados antes de comprar material de obra na promoção | "Vai comprar material de obra na promoção? Lê isso antes de passar no caixa." | 2026-11-21/bf_material_ig_* (ref.: carrossel educativo de newsjacking estilo Alfredo Soares)
+- 2026-11-22 10h | TT | vídeo animado 18s | newsjacking 13º salário: ordem certa pra gastar na casa (chuva > segurança > estrutura > acabamento) + pedir proposta | "Caiu o 13º e vai usar na casa? Não começa pela pintura." | 2026-11-22/tt_13salario.mp4 (ref.: lista "ordem certa" com barra de progresso, estilo carrossel educativo de criadores de negócios)
+  - Aviso: carrosséis de fotos do TikTok com PNG falham (17 e 19/11). Usar JPG/WEBP em fotos para TikTok.
